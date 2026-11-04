@@ -1,4 +1,4 @@
-# Alphabet-to-Interger-
+# Alphabet-to-Interger-Converter
 Program that initialises a map with corresponding numbers and letters and assigns the letter a numerical value from 1 to 26.
 
 java Alphabet-to-Number Converter - Luka Lichailidis
